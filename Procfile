@@ -1,1 +1,1 @@
-Riz: python -m RiZoeLXSpam
+Nobi: python -m NoBiTaXSpam
